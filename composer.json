@@ -4,6 +4,6 @@
 	"license": "GPL",
 	"require": {
 		"rmccue/requests": "~1.6",
-		"justinrainbow/json-schema": "dev-master"
+		"justinrainbow/json-schema": "5.2.8"
 	}
 }
